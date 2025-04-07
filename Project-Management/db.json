@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "291e",
+      "name": "Ihone 15",
+      "price": 10000,
+      "qty": 5,
+      "des": "Smartest Phone",
+      "cat": "Electronices"
+    },
+    {
+      "id": "c454",
+      "name": "Iphone 15",
+      "price": 12000,
+      "qty": 2,
+      "des": "Smartest Phone",
+      "cat": "Electronices"
+    },
+    {
+      "name": "Samsung 24",
+      "price": 150000,
+      "qty": 5,
+      "des": "Smartest Phonewith AI Features",
+      "cat": "Electronices",
+      "id": "7060"
+    }
+  ]
+}

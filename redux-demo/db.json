@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "c087",
+      "title": "Business Logic",
+      "description": "Logic for edit",
+      "dueDate": "2025-04-10",
+      "priority": "Low",
+      "status": "Completed"
+    },
+    {
+      "id": "ac03",
+      "title": "Design UI",
+      "description": "Business logic",
+      "dueDate": "2025-04-24",
+      "priority": "Medium",
+      "status": "InProgress"
+    },
+    {
+      "id": "8ab7",
+      "title": "Business Logic",
+      "description": "Bussiness logic for edit the product",
+      "dueDate": "2025-04-04",
+      "priority": "Medium",
+      "status": "Completed"
+    }
+  ]
+}

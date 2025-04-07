@@ -1,0 +1,27 @@
+{
+  "tasks": [
+    {
+      "id": "d116",
+      "title": "task 2",
+      "description": "task 2 important for documentation",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "id": "4a68",
+      "title": "Design UI",
+      "description": "Designing the User Ui",
+      "dueDate": "2025-03-29",
+      "priority": "High",
+      "status": "InProgress"
+    },
+    {
+      "id": "238f",
+      "title": "Design UI",
+      "description": "Bussiness logic for edit the product",
+      "dueDate": "2025-03-30",
+      "priority": "Low",
+      "status": "Pending"
+    }
+  ]
+}
