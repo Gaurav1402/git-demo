@@ -7,9 +7,6 @@ function Vegtables() {
     console.log("type", type)
     return (
         <div className='row container'>
-            <p> Changes in git
-
-            </p>
             <p> Vegtables components</p>
             {prData && prData.map((item) => (
                 <div key={item.id} className="card ms-2 mt-2" style={{ width: "18rem" }}>
